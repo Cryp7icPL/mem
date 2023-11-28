@@ -1,0 +1,23 @@
+html
+{
+    background-color: black;
+}
+.obrazek
+{
+    height: 600px;
+    width: 400px;
+    margin-left: 40%;
+    border: solid white;
+    border-width: 5px;
+}
+.waz
+{
+    color: white;
+    margin-left: 50%;
+}
+.mem
+{
+    color: white;
+    font-size: medium;
+    margin-left: 47%;
+}
